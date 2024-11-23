@@ -7,3 +7,5 @@ A New File to Test Stash
 
 By Jagadeesh
 >>>>>>> Stashed changes
+
+Check Stash Branch 1
