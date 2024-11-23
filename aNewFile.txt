@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 A New File to Test Stash
 
 By Fayaz
+=======
+A New File to Test Stash 
+
+By Jagadeesh
+>>>>>>> Stashed changes
