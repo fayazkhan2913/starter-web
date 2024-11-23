@@ -13,3 +13,5 @@ This is some Text defining the purpose of this README File.
 ## Conclusion
 
 Adding some conclusion
+
+Some more from feature
