@@ -3,3 +3,5 @@ waste.txt
 *.xml
 
 redundantfol/
+
+*.orig
