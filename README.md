@@ -11,3 +11,5 @@ This is some introduction to this README File.
 This is some Text defining the purpose of this README File.
 
 ## Conclusion
+
+Adding some conclusion
