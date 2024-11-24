@@ -9,3 +9,5 @@ By Jagadeesh
 >>>>>>> Stashed changes
 
 Check Stash Branch 1
+
+Tag Example
